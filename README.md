@@ -12,7 +12,7 @@
 
 
 ### Talk with me:
-<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/31946480_2086294791658116_1597212480986152960_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=AmOzjM9lYx0AX8D9b7w&_nc_ht=scontent-ort2-1.xx&oh=3a62786ac6f8285a260abd6376ccc025&oe=61B9F9E3" />
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://scontent-ort2-1.xx.fbcdn.net/v/t1.6435-9/31946480_2086294791658116_1597212480986152960_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=AmOzjM9lYx0AX8D9b7w&_nc_ht=scontent-ort2-1.xx&oh=3a62786ac6f8285a260abd6376ccc025&oe=61B9F9E3" width=200/>
 
 <br />
 
