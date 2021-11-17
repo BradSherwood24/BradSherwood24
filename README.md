@@ -12,7 +12,7 @@
 
 
 ### Talk with me:
-[<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+[<img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif">](http://google.com.au/)
 
 <br />
 
