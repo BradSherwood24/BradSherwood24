@@ -12,7 +12,7 @@
 
 
 ### Talk with me:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://media-exp1.licdn.com/dms/image/C4E03AQEJ8-Pmg6P36g/profile-displayphoto-shrink_800_800/0/1631128292844?e=1642636800&v=beta&t=glrI8Axrx-g6uFO_LAaLYdr3GOdJJAlQwxXUGA5JQZ0" />
 
 <br />
 
