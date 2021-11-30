@@ -31,6 +31,7 @@
 <br />
 
 ### Talk with me:
+
 [<img height='150' width='150' src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif">](https://www.linkedin.com/in/bradley-sherwood-36a92615a/)
 
 <br />
