@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate on Back-End
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I'm a pilot
-
-
 <br />
 
 ### Languages and Tools:
