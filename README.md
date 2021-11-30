@@ -4,7 +4,7 @@
 
 
 ## I'm a Developer, 
-- ✍ You can find my projects here [portfolio]
+- ✍ You can find my projects here [portfolio](https://bradsherwood24.github.io/personal_site/)
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on Back-End
 - 💬 Ask me about ... Anything
